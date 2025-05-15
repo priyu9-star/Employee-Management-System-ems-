@@ -63,6 +63,7 @@ npm install
 npm run dev
 
 👩‍💻 Author
+
 Priyanshi Jayant
 🔗 LinkedIn
 💻 GitHub
