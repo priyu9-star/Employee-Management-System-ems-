@@ -65,5 +65,5 @@ npm run dev
 👩‍💻 Author
 
 Priyanshi Jayant
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn:- www.linkedin.com/in/priyanshi-jayant-853952255
+💻 GitHub:- https://github.com/priyu9-star
