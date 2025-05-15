@@ -14,15 +14,10 @@ Fast Refresh Support:
 
 🎯 Features
 ✅ Create, edit, and view employee tasks
-
 📱 Fully responsive design
-
 ⚛️ Component-based architecture (React)
-
 🎨 Tailwind CSS for consistent styling
-
 ⚡ Fast hot module replacement (HMR) with Vite
-
 🔍 Code quality checks with ESLint
 
 📁 Project Structure
